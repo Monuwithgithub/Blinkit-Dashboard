@@ -87,3 +87,7 @@ All Metrics by Outlet Type
 📍 Objective: Comprehensive breakdown of Total Sales, Avg Sales, Items, and Ratings by outlet type
 
 📊 Chart Type: Matrix Card
+
+📌Screenshots/ Demos 
+
+Show what the dashboard looks like : https://github.com/Monuwithgithub/Blinkit-Dashboard/blob/main/Blinkit_Dashboard.png
